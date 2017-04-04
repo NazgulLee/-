@@ -3,4 +3,3 @@
 * [GVUserDefaults（不到300行代码，适合runtime初学者阅读学习）](https://github.com/NazgulLee/GVUserDefaults)
 * [FastImageCache](https://github.com/NazgulLee/FastImageCache)
 * [SDWebImage](https://github.com/NazgulLee/SDWebImage)
-* [AFNetworking(阅读中...)](https://github.com/NazgulLee/AFNetworking)
